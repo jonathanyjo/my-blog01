@@ -1,0 +1,25 @@
+# D:\GitPage\my-blog01\data\en\projects.toml
+
+[[projects]]
+title = "Sol AI"
+description = "LLM 기반 텍스트 분석·생성 SaaS 플랫폼"
+tech = "Hugo, Tailwind CSS, JavaScript, Go"
+period = "2025 - Present"
+highlight = true
+
+image = "/images/sol-ai-cover.png"          # static/images/sol-ai-cover.png
+view_code = "https://github.com/jonathanyjo/sol-ai"
+watch_demo = "https://youtu.be/your-demo-id"
+visit_website = "https://sol-ai.dev"
+
+[[projects]]
+title = "DNA Lab Blog"
+description = "개발 로그와 연구 내용을 정리한 정적 블로그"
+tech = "Hugo, Tailwind CSS"
+period = "2024 - 2025"
+highlight = false
+
+image = "/images/dna-lab-blog.png"         # 있으면 사용, 없으면 빈 값으로 두세요
+view_code = "https://github.com/jonathanyjo/dna-lab-blog"
+watch_demo = ""
+visit_website = "https://jonathanyjo.github.io"

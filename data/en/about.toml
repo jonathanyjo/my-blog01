@@ -1,0 +1,67 @@
+name = "Jonathan Y Jo"
+title = "AI SaaS & Bio-AI Developer"
+location = "Seoul, South Korea 🇰🇷"
+
+[[sections]]
+type = "intro"
+content = """Over the past 5 years, I've worked on AI and machine learning projects involving text analysis, LLM fine-tuning, and SaaS platform development. 
+I find the greatest satisfaction in solving complex problems and creating practical solutions."""
+
+[[sections]]
+type = "current"
+content = """Currently working as CEO & Developer at DNA Lab, developing the <strong>Sol AI</strong> service. 
+Focused on LLM-based text analysis/generation SaaS and Bio-AI domains, actively contributing to open source projects."""
+
+[[sections]]
+type = "opportunity"
+title = "🚀 Currently Open For"
+content = """Actively seeking full-time developer positions and freelance projects. 
+Looking for collaborators in AI/ML, SaaS development, and Bio-AI!"""
+
+[[tech]]
+icon = "🤖"
+name = "AI/ML"
+detail = "LLM, PyTorch"
+
+[[tech]]
+icon = "⚡"
+name = "Backend" 
+detail = "FastAPI, Python"
+
+[[tech]]
+icon = "🎨"
+name = "Frontend"
+detail = "React, Tailwind"
+
+[[tech]]
+icon = "🐳"
+name = "DevOps"
+detail = "Docker, AWS"
+
+[[awards]]
+title = "Academic Topper"
+institution = "K K Wagh Arts Commerce Science and Computer Science College"
+date = "March 2023"
+
+[[awards]]
+title = "Academic Excellence Award"
+institution = "Podar International School, Nashik"
+date = "October 2017"
+
+[[certifications]]
+title = "AI Vector Search Professional"
+date = "Feb 2025"
+url = "https://catalog-education.oracle.com/ords/certview/sharebadge?id=E5845422D7DE89C09337652BAF48826F0C6C9CB6FAA7B0FE9F8B1AF447FACAB9"
+color = "emerald"
+
+[[certifications]]
+title = "Generative AI Professional"
+date = "July 2024"
+url = "https://catalog-education.oracle.com/ords/certview/sharebadge?id=5C2C44615B73F678DF85E44418348C3535ABCE032C9F7E82F196472434C80BCB"
+color = "blue"
+
+[[certifications]]
+title = "AI Foundations Associate"
+date = "April 2025"
+url = "https://catalog-education.oracle.com/ords/certview/sharebadge?id=FDAC04F9FD0E2793459AAC3EE02DE9131DA3B7B34C20A361CAEFC71059B86EA8"
+color = "purple"

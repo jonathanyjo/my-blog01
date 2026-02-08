@@ -1,0 +1,125 @@
+baseURL = 'https://jonathanyjo.github.io/'
+title = 'Jonathan Y Jo'
+theme = 'hugo-noir'
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+
+# 테마 메타데이터 (필요시 보관)
+homepage = "https://github.com/prxshetty/hugo-noir"
+demosite = "https://pranamshetty.dev"
+tags = ["blog", "minimalist", "responsive", "tailwind", "clean", "light", "personal", "dark"]
+features = ["responsive", "tailwind css", "minimalist", "blog", "clean design", "fast", "seo-friendly"]
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.92.0"
+
+[languages]
+  [languages.en]
+    languageName = 'English'
+    contentDir = 'content/en'
+    weight = 2
+    title = "Jonathan Y Jo | Future Maker"
+    [languages.en.params]
+      showAbout = true
+      # 메인 페이지 섹션별 노출 여부 설정
+      showHero = true
+      showTechStack = true
+      showExperience = true
+      showRecentPosts = true
+      showRecentProjects = true
+      
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        name = "About"
+        pageRef = "/about"
+        weight = 2
+      [[languages.en.menu.main]]
+        name = "Experience"
+        pageRef = "/experience" # 데이터 기반 페이지 혹은 마크다운
+        weight = 3
+      [[languages.en.menu.main]]
+        name = "Projects"
+        pageRef = "/projects"
+        weight = 4
+      [[languages.en.menu.main]]
+        name = "Blogs"
+        pageRef = "/blogs"
+        weight = 5
+      [[languages.en.menu.main]]
+        name = "Research"
+        pageRef = "/research"
+        weight = 6
+      [[languages.en.menu.main]]
+        name = "Contact"
+        pageRef = "/contact"
+        weight = 7
+
+  [languages.ko]
+    languageName = '한국어'
+    contentDir = 'content/ko'
+    weight = 1
+    title = "Jonathan Y Jo | 미래 제작자"
+    [languages.ko.menu]
+      [[languages.ko.menu.main]]
+        name = "소개"
+        pageRef = "/about"
+        weight = 2
+      [[languages.ko.menu.main]]
+        name = "경력"
+        pageRef = "/experience"
+        weight = 3
+      [[languages.ko.menu.main]]
+        name = "프로젝트"
+        pageRef = "/projects"
+        weight = 4
+      [[languages.ko.menu.main]]
+        name = "블로그"
+        pageRef = "/blogs"
+        weight = 5
+      [[languages.ko.menu.main]]
+        name = "연구"
+        pageRef = "/research"
+        weight = 6
+      [[languages.ko.menu.main]]
+        name = "연락처"
+        pageRef = "/contact"
+        weight = 7
+
+[params]
+  name = "Jonathan Y Jo"
+  brand = "Jonathan Y Jo"
+
+  description = "AI SaaS & Bio-AI Developer"
+  author = "Jonathan Y Jo"
+  # 전역 설정에서도 확실히 켜줍니다.
+  showHero = true
+  showTechStack = true
+  showExperience = true
+  showRecentPosts = true
+  showRecentProjects = true
+
+  # 소셜 및 연락처 (상단 아이콘)
+  github = "https://github.com/jonathanyjo"
+  linkedin = "https://linkedin.com/in/yourprofile"
+  email = "jonathanyjo1108@gmail.com"
+  
+  # Hero 섹션 문구
+  hero_description = "Building Intelligent Solutions for a Better Future"
+
+[author]
+  name = "Jonathan Y Jo"
+  location = "Seoul, Korea"
+  description = "AI SaaS & Bio-AI Developer"
+  profile_image = "/images/your-profile.jpg"
+  github = "https://github.com/jonathanyjo"
+  linkedin = "https://linkedin.com/in/yourprofile"
+  email = "jonathanyjo1108@gmail.com"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # 마크다운 내 HTML 태그 허용
+
+  

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jonathan Y Jo | 미래 제작자</title>
+    <link>http://localhost:1313/ko/</link>
+    <description>Recent content on Jonathan Y Jo | 미래 제작자</description>
+    <generator>Hugo</generator>
+    <language>ko</language>
+    <atom:link href="http://localhost:1313/ko/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/ko/blogs/my-first-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ko/blogs/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;contentkoblogmy-first-postmd&#34;&gt;content/ko/blog/my-first-post.md&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;tags-hugo-웹-개발-느와르-테마&#34;&gt;title: &amp;ldquo;Hugo Noir 시작하기&amp;rdquo;&#xA;date: 2026-02-07T12:00:00+09:00&#xA;draft: false&#xA;tags: [&amp;ldquo;Hugo&amp;rdquo;, &amp;ldquo;웹 개발&amp;rdquo;, &amp;ldquo;느와르 테마&amp;rdquo;]&lt;/h2&gt;&#xA;&lt;p&gt;우아한 Hugo Noir 테마를 사용한 첫 번째 블로그 게시물에 오신 것을 환영합니다! 이 게시물에서는 초기 설정 및 사용자 정의 옵션을 다룹니다.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/ko/projects/sol-ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ko/projects/sol-ai/</guid>
+      <description>&lt;h1 id=&#34;contentkoprojectssol-aimd&#34;&gt;content/ko/projects/sol-ai.md&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;external_link-&#34;&gt;title: &amp;ldquo;Sol AI: 고도화된 AI SaaS 플랫폼&amp;rdquo;&#xA;date: 2026-02-07T13:00:00+09:00&#xA;draft: false&#xA;tags: [&amp;ldquo;AI&amp;rdquo;, &amp;ldquo;SaaS&amp;rdquo;, &amp;ldquo;개발&amp;rdquo;]&#xA;image: &amp;ldquo;/images/sol-ai-cover.png&amp;rdquo; # static/images/sol-ai-cover.png 에 이미지 파일 준비&#xA;external_link: &amp;ldquo;&lt;a href=&#34;https://github.com/your-sol-ai-repo%22&#34;&gt;https://github.com/your-sol-ai-repo&#34;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;고도화된 데이터 분석을 위한 확장 가능한 AI 기반 SaaS 플랫폼 구축 프로젝트입니다.&#xA;백엔드는 FastAPI, 프론트엔드는 React를 사용하며, Docker를 통해 컨테이너화했습니다.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

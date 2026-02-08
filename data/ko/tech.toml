@@ -1,0 +1,12 @@
+# data/en/tech.toml 또는 data/ko/tech.toml
+row1 = [
+  { name = "Python", icon = "devicon-python-plain" },
+  { name = "FastAPI", icon = "devicon-fastapi-plain" },
+  { name = "Docker", icon = "devicon-docker-plain" }
+]
+
+row2 = [
+  { name = "Go", icon = "devicon-go-plain" },
+  { name = "PostgreSQL", icon = "devicon-postgresql-plain" },
+  { name = "Nginx", icon = "devicon-nginx-original" }
+]

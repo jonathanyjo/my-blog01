@@ -1,0 +1,25 @@
+# D:\GitPage\my-blog01\data\en\research.toml
+
+[[research]]
+title = "LLM Fine-tuning Optimization"
+topic = "Large Language Models"
+description = "LoRA와 QLoRA를 활용한 효율적인 LLM 파인튜닝 기법 연구. 한국어 도메인 특화 모델 성능 15% 향상 달성."
+period = "2025 - Present"
+paper = "https://arxiv.org/abs/2502.xxxxx"
+workshop = ""
+
+[[research]]
+title = "Bio-AI Text Analysis Pipeline"
+topic = "Bioinformatics + NLP"
+description = "생물학 논문에서 단백질 상호작용 추출 파이프라인 개발. BioBERT + spaCy 조합으로 정확도 92% 달성."
+period = "2025 Q3-Q4"
+paper = ""
+workshop = "https://workshop.bioai2025.org/abstract/123"
+
+[[research]]
+title = "Multi-modal AI Agent Framework"
+topic = "Vision + Language"
+description = "텍스트와 이미지를 동시에 처리하는 멀티모달 AI 에이전트 개발. LLaVA 기반 이미지 질의응답 정확도 87%."
+period = "2026 Q1"
+paper = "https://arxiv.org/abs/2601.yyyyy"
+workshop = "https://cvpr2026workshop.org/"

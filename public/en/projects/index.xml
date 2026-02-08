@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Jonathan Y Jo | Future Maker</title>
+    <link>http://localhost:1313/en/projects/</link>
+    <description>Recent content in Projects on Jonathan Y Jo | Future Maker</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/en/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/en/projects/sol-ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/projects/sol-ai/</guid>
+      <description>&lt;h1 id=&#34;contentenprojectssol-aimd&#34;&gt;content/en/projects/sol-ai.md&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;external_link---프로젝트-저장소-링크-선택-사항&#34;&gt;title: &amp;ldquo;Sol AI: Advanced AI SaaS Platform&amp;rdquo;&#xA;date: 2026-02-07T13:00:00+09:00 # 날짜 중요 (최신 프로젝트가 상단에 노출)&#xA;draft: false&#xA;tags: [&amp;ldquo;AI&amp;rdquo;, &amp;ldquo;SaaS&amp;rdquo;, &amp;ldquo;Development&amp;rdquo;]&#xA;image: &amp;ldquo;/images/sol-ai-cover.png&amp;rdquo; # static/images/sol-ai-cover.png 에 이미지 파일 준비&#xA;external_link: &amp;ldquo;&lt;a href=&#34;https://github.com/your-sol-ai-repo%22&#34;&gt;https://github.com/your-sol-ai-repo&#34;&lt;/a&gt; # 프로젝트 저장소 링크 (선택 사항)&lt;/h2&gt;&#xA;&lt;p&gt;This project focuses on building a scalable AI-powered SaaS platform for advanced data analytics.&#xA;It utilizes FastAPI for the backend, React for the frontend, and Docker for containerization.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,69 @@
+name = "조영규 (Jonathan Y Jo)"
+title = "AI SaaS & Bio-AI 개발자"
+location = "서울, 대한민국 🇰🇷"
+
+[[sections]]
+type = "intro"
+content = """지난 5년간 AI와 머신러닝 프로젝트를 통해 텍스트 분석, LLM 파인튜닝, SaaS 플랫폼 개발을 경험했습니다. 
+복잡한 문제를 해결하고 실용적인 솔루션을 만드는 과정에서 가장 큰 성취감을 느낍니다."""
+
+[[sections]]
+type = "current"
+content = """현재 DNA Lab에서 CEO & Developer로 활동하며 <strong>Sol AI</strong> 서비스를 개발하고 있습니다. 
+LLM 기반 텍스트 분석/생성 SaaS와 Bio-AI 도메인에 집중하고 있으며, 오픈소스 프로젝트에도 적극 기여하고 있습니다."""
+
+[[sections]]
+type = "opportunity"
+title = "🚀 현재 열린 기회"
+content = """풀타임 개발자 포지션과 프리랜서 프로젝트를 적극적으로 찾고 있습니다. 
+AI/ML, SaaS 개발, Bio-AI 분야에서 함께할 동료를 기다립니다!"""
+
+[[tech]]
+icon = "🤖"
+name = "AI/ML"
+detail = "LLM, PyTorch"
+
+[[tech]]
+icon = "⚡"
+name = "백엔드"
+detail = "FastAPI, Python"
+
+[[tech]]
+icon = "🎨"
+name = "프론트엔드"
+detail = "React, Tailwind"
+
+[[tech]]
+icon = "🐳"
+name = "DevOps"
+detail = "Docker, AWS"
+
+# 수상 내역은 영어로 유지 (공식 명칭)
+[[awards]]
+title = "Academic Topper"
+institution = "K K Wagh Arts Commerce Science and Computer Science College"
+date = "2023년 3월"
+
+[[awards]]
+title = "Academic Excellence Award"
+institution = "Podar International School, Nashik"
+date = "2017년 10월"
+
+# 자격증도 영어로 유지
+[[certifications]]
+title = "AI Vector Search Professional"
+date = "2025년 2월"
+url = "https://catalog-education.oracle.com/ords/certview/sharebadge?id=E5845422D7DE89C09337652BAF48826F0C6C9CB6FAA7B0FE9F8B1AF447FACAB9"
+color = "emerald"
+
+[[certifications]]
+title = "Generative AI Professional"
+date = "2024년 7월"
+url = "https://catalog-education.oracle.com/ords/certview/sharebadge?id=5C2C44615B73F678DF85E44418348C3535ABCE032C9F7E82F196472434C80BCB"
+color = "blue"
+
+[[certifications]]
+title = "AI Foundations Associate"
+date = "2025년 4월"
+url = "https://catalog-education.oracle.com/ords/certview/sharebadge?id=FDAC04F9FD0E2793459AAC3EE02DE9131DA3B7B34C20A361CAEFC71059B86EA8"
+color = "purple"

@@ -1,0 +1,11 @@
+[[blogs]]
+  title = "My First Post"
+  description = "Beginning of my AI SaaS journey."
+  date = "2026-02-07"
+  link = "/blog/my-first-post/"
+
+[[blogs]]
+  title = "Understanding Bio-AI"
+  description = "The intersection of Biology and AI."
+  date = "2026-01-15"
+  link = "/blog/bio-ai-post/"
