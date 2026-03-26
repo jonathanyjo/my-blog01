@@ -1,38 +1,96 @@
-# D:\GitPage\my-blog01\data\en\experience.toml
+# Intro text
+intro = """I hold a master's degree in Bioinformatics and Biotechnology and have participated in research on electrochemical nano biosensors and biodata analysis. In global market management, I achieved outstanding results, ranking within the top 1% in just one month. I developed a web application that analyzes and visualizes global markets. Currently, I am leading a project that connects AI, data, and SaaS into practical and impactful products."""
+
+# Career Timeline
+[[experience]]
+company = "OligoN"
+company_link = "https://Tudease.dev"
+role = "CEO & Lead Developer"
+period = "2026.01 – Present"
+country = "Seoul, South Korea"
+logo = "/images/dna-lab.png"
+responsibilities = [
+  "AI_Data Development",
+  "Tudease Development: Building AI-powered text analysis and generation modules",
+  "SaaS Architecture: Designing scalable AI service infrastructure",
+  "AI Wrapper service to democratize complex AI technology"
+]
+technologies = ["Python", "Gemini", "Mistral", "Docker", "Redis"]
 
 [[experience]]
-company = "DNA Lab"
-role = "CEO & Dev"
-location = "Seoul, Korea"
-startDate = "Jan 2026"
-endDate = "Present"
-description = "AI 텍스트 분석 및 생성 모듈 개발, ‘Sol AI’ 서비스 기획 및 개발"
-tags = ["AI", "SaaS", "NLP"]
+company = "World Market Analysis"
+company_link = ""
+role = "Project Leader & Developer"
+period = "2025.01 – 2025.12"
+country = "United States"
+logo = ""
+responsibilities = [
+  "AI Fine-tuning: Optimized text generation AI for market needs analysis",
+  "Performance: Improved system performance by 30% through DB query optimization", 
+  "Frontend: Built high-performance dashboards with React"
+]
+technologies = ["React", "MySQL", "AI Text Generation", "Market Analysis"]
 
 [[experience]]
 company = "World Market Project"
-role = "Leader Dev"
-location = "Remote"
-startDate = "Jul 2025"
-endDate = "Dec 2025"
-description = "AI 파인튜닝, 텍스트 생성 파이프라인 설계 및 배포"
-tags = ["LLM", "Finetuning", "Backend"]
+company_link = ""
+role = "Project Manager"
+period = "2023.09 – 2024.05"
+country = "Global (US/China/Vietnam/Korea)"
+logo = ""
+responsibilities = [
+  "Managed global dropshipping project connecting US, China, Vietnam, and Korea markets",
+  "Established global supply chain and distribution strategies based on market data"
+]
+technologies = ["Global Market Analysis", "Supply Chain Strategy"]
 
 [[experience]]
 company = "GitHub"
+company_link = "https://github.com/jonathanyjo"
 role = "Open Source Contributor"
-location = ""
-startDate = "Jun 2024"
-endDate = "Now"
-description = "@prxshetty 계정으로 여러 오픈소스 프로젝트에 기여"
-tags = ["Open Source", "GitHub"]
-link = "https://github.com/"
-linkText = "@prxshetty"
+period = "2024.06 – Present"
+country = "Global"
+logo = ""
+responsibilities = [
+  "Contributing to various open source projects"
+]
+technologies = ["Open Source", "Hugo", "GitHub"]
 
-[[experience]]
-role = "CEO & Dev"
-company = "DNA Lab"
-company_link = "https://sol-ai.dev"
-period = "Jan 2026 - Present"
-country = "Korea"
-logo = "/images/dna-lab.png"  # static/images/dna-lab.png 에 파일 두기
+# Education
+[[education]]
+degree = "Master's in Biotechnology"
+period = "2019 – 2020"
+description = "Conducted bio research utilizing biosensors, AI, and data analysis"
+
+[[education]]
+degree = "Bachelor's in Bioinformatics & Biotechnology"
+period = "2013 – 2018"
+description = "X-ray crystallography, Protein Structure, Protein folding, NCBI data analysis"
+
+# Skills & Research
+[[skills]]
+category = "Languages/Frameworks"
+items = ["Python", "TypeScript", "React", "React Native", "Java", "Spring"]
+
+[[skills]]
+category = "AI/ML" 
+items = ["Gemma", "Mistral", "Qwen", "Transformers", "Gemini", "AI Fine-tuning"]
+
+[[skills]]
+category = "Data/DevOps"
+items = ["MongoDB", "MySQL", "Docker", "Redis", "PostgreSQL"]
+
+# Research Interest
+[[research]]
+title = "AI"
+description = "Bio-AI, prompt engineering, micro AI"
+
+[[research]]
+title = "Electrochemical Nano Biosensors"
+description = "data snalysis"
+
+[[research]]
+title = "Bioinformatics"
+description = "Bio data analysis and AI integration"
+
+

@@ -1,25 +1,25 @@
 # D:\GitPage\my-blog01\data\en\projects.toml
 
 [[projects]]
-title = "Sol AI"
-description = "LLM 기반 텍스트 분석·생성 SaaS 플랫폼"
-tech = "Hugo, Tailwind CSS, JavaScript, Go"
-period = "2025 - Present"
+title = "Tubease AI"
+description = "LLM-based Text Analysis & Generation SaaS Platform"
+tech = "fast api, React, Tailwind CSS, Python, TypeScript"
+period = "2026 - Present"
 highlight = true
 
-image = "/images/sol-ai-cover.png"          # static/images/sol-ai-cover.png
-view_code = "https://github.com/jonathanyjo/sol-ai"
+image = "/images/sol-ai-cover.jpg"          # static/images/sol-ai-cover.png
+view_code = "https://github.com/jonathanyjo/Tubease-ai"
 watch_demo = "https://youtu.be/your-demo-id"
-visit_website = "https://sol-ai.dev"
+visit_website = "https://Tubease-ai.dev"
 
 [[projects]]
-title = "DNA Lab Blog"
-description = "개발 로그와 연구 내용을 정리한 정적 블로그"
+title = "OligoN"
+description = "Static blog documenting development logs and research findings"
 tech = "Hugo, Tailwind CSS"
-period = "2024 - 2025"
+period = "2024 - Present"
 highlight = false
 
-image = "/images/dna-lab-blog.png"         # 있으면 사용, 없으면 빈 값으로 두세요
-view_code = "https://github.com/jonathanyjo/dna-lab-blog"
+image = "/images/oligon-blog.png"         # 있으면 사용, 없으면 빈 값으로 두세요
+view_code = "https://github.com/jonathanyjo/OligoN-blog"
 watch_demo = ""
 visit_website = "https://jonathanyjo.github.io"

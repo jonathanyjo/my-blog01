@@ -1,16 +1,16 @@
 name = "Jonathan Y Jo"
-title = "AI SaaS & Bio-AI Developer"
+title = "AI Data Engineer"
 location = "Seoul, South Korea 🇰🇷"
 
 [[sections]]
 type = "intro"
-content = """Over the past 5 years, I've worked on AI and machine learning projects involving text analysis, LLM fine-tuning, and SaaS platform development. 
-I find the greatest satisfaction in solving complex problems and creating practical solutions."""
+content = """Hello! I’m Jonathan Y Jo, the CEO and lead developer of **OligoN**.
+
+I’m deeply interested in going beyond simple development to create real business value with AI and to solve complex problems by integrating it with biotech. I’m currently focused on building the AI SaaS product **“Tubease AI”** and developing Bio-AI applications."""
 
 [[sections]]
 type = "current"
-content = """Currently working as CEO & Developer at DNA Lab, developing the <strong>Sol AI</strong> service. 
-Focused on LLM-based text analysis/generation SaaS and Bio-AI domains, actively contributing to open source projects."""
+content = """I am currently running **OligoN**, focusing on AI-based text analysis and generation modules, as well as AI communication development. In particular, I’m leading a project called **“Tubease AI”**, an AI wrapper service that makes complex AI technology easily accessible to the general public."""
 
 [[sections]]
 type = "opportunity"
@@ -21,22 +21,27 @@ Looking for collaborators in AI/ML, SaaS development, and Bio-AI!"""
 [[tech]]
 icon = "🤖"
 name = "AI/ML"
-detail = "LLM, PyTorch"
+detail = "LLM, PyTorch, Gemma, llama, Mistral, Qwen, Transformers, Gemini,"
+
+[[tech]]
+icon = "⚛️"
+name = "Bioinformatics"
+detail = "biodata analysis, nano bio sensor, Aptamer, electrochemical biosensor analysis"
 
 [[tech]]
 icon = "⚡"
-name = "Backend" 
-detail = "FastAPI, Python"
+name = "backend"
+detail = "FastAPI, Python, Node.js, Spring"
 
 [[tech]]
 icon = "🎨"
-name = "Frontend"
-detail = "React, Tailwind"
+name = "frontend" 
+detail = "React, React Native, TypeScript, Tailwind"
 
 [[tech]]
 icon = "🐳"
-name = "DevOps"
-detail = "Docker, AWS"
+name = "DevOps/Infra"
+detail = "Docker, AWS, Google Cloud, Redis, PostgreSQL"
 
 [[awards]]
 title = "Academic Topper"

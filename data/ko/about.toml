@@ -1,47 +1,57 @@
-name = "조영규 (Jonathan Y Jo)"
-title = "AI SaaS & Bio-AI 개발자"
+name = "Jonathan Y Jo"
+title = "AI Data Engineer"
 location = "서울, 대한민국 🇰🇷"
 
 [[sections]]
 type = "intro"
-content = """지난 5년간 AI와 머신러닝 프로젝트를 통해 텍스트 분석, LLM 파인튜닝, SaaS 플랫폼 개발을 경험했습니다. 
-복잡한 문제를 해결하고 실용적인 솔루션을 만드는 과정에서 가장 큰 성취감을 느낍니다."""
+content = """안녕하세요! 저는 현재 **DNA Lab**의 CEO이자 리드 개발자로 활동하고 있는 Jonathan Y Jo입니다.
+
+단순한 개발을 넘어, AI 기술이 실질적인 비즈니스 가치를 창출하고 biotech와 융합하여 난제를 해결하는 데 깊은 관심을 가지고 있습니다. 현재는 AI SaaS인 'Sol AI' 개발과 Bio-AI 애플리케이션 구축에 전념하고 있습니다."""
 
 [[sections]]
 type = "current"
-content = """현재 DNA Lab에서 CEO & Developer로 활동하며 <strong>Sol AI</strong> 서비스를 개발하고 있습니다. 
-LLM 기반 텍스트 분석/생성 SaaS와 Bio-AI 도메인에 집중하고 있으며, 오픈소스 프로젝트에도 적극 기여하고 있습니다."""
+content = """현재 **DNA Lab**을 운영하며 AI 기반 텍스트 분석 및 생성 모듈, AI communication 개발에 집중하고 있습니다. 특히 AI Wrapper 서비스인 **'Sol AI'**를 통해 복잡한 AI 기술을 대중이 쉽게 사용할 수 있도록 만드는 프로젝트를 리딩하고 있습니다.
+
+**Core Expertise:**
+- **AI & LLM Engineering** — Gemma, Mistral, Qwen 등 오픈소스 모델 활용, wrapper, prompt engineering
+- **Bio-informatics** — 생물학적 데이터 분석 및 AI 모델 적용 연구  
+- **Full-Stack Development** — React와 fast api 기반의 확장 가능한 아키텍처 설계
+- **Business Strategy** — 글로벌 마켓 분석 경험을 바탕으로 한 비즈니스 모델 구축"""
 
 [[sections]]
 type = "opportunity"
-title = "🚀 현재 열린 기회"
-content = """풀타임 개발자 포지션과 프리랜서 프로젝트를 적극적으로 찾고 있습니다. 
-AI/ML, SaaS 개발, Bio-AI 분야에서 함께할 동료를 기다립니다!"""
+title = "함께할 동료를 찾습니다"
+content = """AI와 생명공학의 교차점에서 혁신적인 솔루션을 함께 만들어갈 동료를 찾고 있습니다. 다양한 배경의 개발자, 데이터 사이언티스트, 제품 매니저와 협업을 기대합니다."""
 
 [[tech]]
 icon = "🤖"
 name = "AI/ML"
-detail = "LLM, PyTorch"
+detail = "LLM, PyTorch, Gemma, llama, Mistral, Qwen, Transformers, Gemini,"
+
+[[tech]]
+icon = "⚛️"
+name = "Bioinformatics"
+detail = "biodata analysis, nano bio sensor, Aptamer, electrochemical biosensor analysis"
 
 [[tech]]
 icon = "⚡"
-name = "백엔드"
-detail = "FastAPI, Python"
+name = "backend"
+detail = "FastAPI, Python, Node.js, Spring"
 
 [[tech]]
 icon = "🎨"
-name = "프론트엔드"
-detail = "React, Tailwind"
+name = "frontend" 
+detail = "React, React Native, TypeScript, Tailwind"
 
 [[tech]]
 icon = "🐳"
-name = "DevOps"
-detail = "Docker, AWS"
+name = "DevOps/Infra"
+detail = "Docker, AWS, Google Cloud, Redis, PostgreSQL"
 
-# 수상 내역은 영어로 유지 (공식 명칭)
+# 수상 내역
 [[awards]]
 title = "Academic Topper"
-institution = "K K Wagh Arts Commerce Science and Computer Science College"
+institution = "K K Wagh Arts Commerce Science and Computer Science College" 
 date = "2023년 3월"
 
 [[awards]]
@@ -49,7 +59,7 @@ title = "Academic Excellence Award"
 institution = "Podar International School, Nashik"
 date = "2017년 10월"
 
-# 자격증도 영어로 유지
+# 자격증
 [[certifications]]
 title = "AI Vector Search Professional"
 date = "2025년 2월"

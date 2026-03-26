@@ -1,25 +1,17 @@
 # D:\GitPage\my-blog01\data\en\research.toml
 
 [[research]]
-title = "LLM Fine-tuning Optimization"
-topic = "Large Language Models"
-description = "LoRA와 QLoRA를 활용한 효율적인 LLM 파인튜닝 기법 연구. 한국어 도메인 특화 모델 성능 15% 향상 달성."
-period = "2025 - Present"
-paper = "https://arxiv.org/abs/2502.xxxxx"
+title = "AI Wrapper & Prompt Engineering for Contents"
+topic = "LLM Orchestration + Prompt Engineering"
+description = "Ongoing research on an AI wrapper framework that processes YouTube content end-to-end — from transcript extraction and segmentation to summarization, repurposing, and Q&A. Focused on building robust prompt pipelines, reusable prompt templates, and evaluation strategies optimized for long-form, multi-language YouTube content."
+period = "2026 – Ongoing"
+paper = ""
 workshop = ""
 
 [[research]]
-title = "Bio-AI Text Analysis Pipeline"
-topic = "Bioinformatics + NLP"
-description = "생물학 논문에서 단백질 상호작용 추출 파이프라인 개발. BioBERT + spaCy 조합으로 정확도 92% 달성."
-period = "2025 Q3-Q4"
+title = "User & Content Recommendation Algorithms for Creator Platforms"
+topic = "Recommender Systems + Social Signals"
+description = "Active research on recommendation algorithms that leverage users’ content consumption patterns, engagement signals, and cross-platform social activity. Exploring hybrid models that combine collaborative filtering, content-based ranking, and graph-based signals to recommend creators, playlists, and AI-generated content snippets in a YouTube-centered ecosystem."
+period = "2026 – Ongoing"
 paper = ""
-workshop = "https://workshop.bioai2025.org/abstract/123"
-
-[[research]]
-title = "Multi-modal AI Agent Framework"
-topic = "Vision + Language"
-description = "텍스트와 이미지를 동시에 처리하는 멀티모달 AI 에이전트 개발. LLaVA 기반 이미지 질의응답 정확도 87%."
-period = "2026 Q1"
-paper = "https://arxiv.org/abs/2601.yyyyy"
-workshop = "https://cvpr2026workshop.org/"
+workshop = ""

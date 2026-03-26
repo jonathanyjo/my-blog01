@@ -91,7 +91,7 @@ features = ["responsive", "tailwind css", "minimalist", "blog", "clean design", 
   name = "Jonathan Y Jo"
   brand = "Jonathan Y Jo"
 
-  description = "AI SaaS & Bio-AI Developer"
+  description = "AI & Data Engineer"
   author = "Jonathan Y Jo"
   # 전역 설정에서도 확실히 켜줍니다.
   showHero = true
@@ -111,7 +111,7 @@ features = ["responsive", "tailwind css", "minimalist", "blog", "clean design", 
 [author]
   name = "Jonathan Y Jo"
   location = "Seoul, Korea"
-  description = "AI SaaS & Bio-AI Developer"
+  description = "AI & Data Engineer"
   profile_image = "/images/your-profile.jpg"
   github = "https://github.com/jonathanyjo"
   linkedin = "https://linkedin.com/in/yourprofile"

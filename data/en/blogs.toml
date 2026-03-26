@@ -1,16 +1,16 @@
 # D:\GitPage\my-blog01\data\en\blogs.toml
 [[blogs]]
-title = "Sol AI 개발기: 첫 번째 챕터"
+title = "Tudease Development: Chapter One"
 date = "2026-02-08"
-excerpt = "LLM 기반 SaaS 플랫폼 개발 경험 공유"
+excerpt = "Sharing LLM-based SaaS platform development experience"
 image = "/images/blog1.jpg"
 link = "/en/blogs/first-post"
 reading_time = "5 min read"
 
 [[blogs]]
-title = "Hugo Noir 테마 커스터마이징"
+title = "Hugo Noir Theme Customization"
 date = "2026-02-01"
-excerpt = "프로젝트와 블로그 카드 완벽 구현"
+excerpt = " Perfect implementation of project and blog cards"
 image = "/images/hugo-noir.jpg"
 link = "/en/blogs/hugo-custom"
 reading_time = "4 min read"

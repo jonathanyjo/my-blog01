@@ -1,10 +1,113 @@
+# 인트로 소개 텍스트
+intro = """Bioinformatics, Biotechnology 석사 학위를 보유하고 있으며, 전기화학 나노 바이오센서, Biodata 분석 연구에 참여하였습니다.
+global market manage 단 1개월 만에 상위 1% 이내 우수 성과를 달성했습니다. 세계의 시장을 분석, 시각화하는 web-app을 개발하였으며, 현재 AI, Data, SaaS를 실용적이고 영향력 있는 제품으로 연결하는 project를 리딩하고 있습니다."""
+
+# 상단 요약 통계 카드들 (실제 경험에 맞게 조정)
+#[[stats]]
+#number = "25+"
+#label = "사용 기술 스택"
+
+#[[stats]]
+#number = "12+"
+#label = "완료 프로젝트"
+
+#[[stats]]
+#number = "3+"
+#label = "추천 수"
+
+#[[stats]]
+#number = "15+"
+#label = "완료 코스"
+
+# 경력 타임라인
 [[experience]]
-  company = "AI SaaS Studio"
-  position = "Lead Developer"
-  period = "2024 - Present"
-  location = "Seoul, Korea"
+company = "OligoN"
+company_link = "https://Tudease.dev"
+role = "CEO & Lead Developer"
+period = "2026.01 – 현재"
+country = "서울, 대한민국"
+logo = "/images/dna-lab.png"
+responsibilities = [
+  "AI SaaS 개발",
+  "Tudease 개발: AI 기반 텍스트 분석 및 생성 모듈 구축",
+  "SaaS Architecture: 확장 가능한 AI 서비스 인프라 설계",
+  "AI Wrapper 서비스를 통해 복잡한 AI 기술 대중화"
+]
+technologies = ["Python", "Gemini", "Mistral", "Docker", "Redis"]
 
 [[experience]]
-  company = "Tech Solutions Inc."
-  position = "Senior Developer"
-  period = "Jan 2020 - Dec 2023"
+company = "World Market Analysis"
+company_link = ""
+role = "Project Leader & Developer"
+period = "2025.01 – 2025.12"
+country = "미국"
+logo = ""
+responsibilities = [
+  "AI Fine-tuning: 마켓 니즈 분석을 위한 텍스트 생성 AI 최적화",
+  "Performance: DB 쿼리 최적화로 시스템 성능 30% 개선", 
+  "Frontend: React 기반 고성능 대시보드 구축"
+]
+technologies = ["React", "MySQL", "AI Text Generation", "Market Analysis"]
+
+[[experience]]
+company = "World Market Project"
+company_link = ""
+role = "Project Manager"
+period = "2023.09 – 2024.05"
+country = "글로벌 (미국/중국/베트남/한국)"
+logo = ""
+responsibilities = [
+  "미국, 중국, 베트남, 한국 시장 연결하는 글로벌 드롭쉬핑 프로젝트 관리",
+  "마켓 데이터 기반 글로벌 공급망 및 유통 전략 수립"
+]
+technologies = ["Global Market Analysis", "Supply Chain Strategy"]
+
+[[experience]]
+company = "GitHub"
+company_link = "https://github.com/jonathanyjo"
+role = "Open Source Contributor"
+period = "2024.06 – 현재"
+country = "글로벌"
+logo = ""
+responsibilities = [
+  "다양한 오픈소스 프로젝트에 기여"
+]
+technologies = ["Open Source", "Hugo", "GitHub"]
+
+# Education
+[[education]]
+degree = "Biotechnology 석사"
+period = "2019 – 2020"
+description = "Biosensor, AI 및 데이터 분석을 활용한 바이오 연구 수행"
+
+[[education]]
+degree = "Bioinformatics & Biotechnology 학사"
+period = "2013 – 2018"
+description = "X-ray crystallography, Protein Structure, Protein folding, NCBI data analysis "
+
+# Skills & Research
+[[skills]]
+category = "Languages/Frameworks"
+items = ["Python", "TypeScript", "React", "React Native", "Java", "Spring"]
+
+[[skills]]
+category = "AI/ML" 
+items = ["Gemma", "Mistral", "Qwen", "Transformers", "Gemini", "AI Fine-tuning"]
+
+[[skills]]
+category = "Data/DevOps"
+items = ["MongoDB", "MySQL", "Docker", "Redis", "PostgreSQL"]
+
+# Research Interest
+[[research]]
+title = "AI"
+description = "Bio AI, prompt engineering, micro AI"
+
+[[research]]
+title = "Electrochemical Nano Biosensors"
+description = "data snalysis"
+
+[[research]]
+title = "Bioinformatics" 
+description = "Bio data 및 AI 융합 분석"
+

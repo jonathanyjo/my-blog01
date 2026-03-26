@@ -1,12 +1,26 @@
 # data/en/tech.toml 또는 data/ko/tech.toml
 row1 = [
-  { name = "Python", icon = "devicon-python-plain" },
-  { name = "FastAPI", icon = "devicon-fastapi-plain" },
-  { name = "Docker", icon = "devicon-docker-plain" }
+  { name = "Python",      icon = "devicon-python-plain" },
+  { name = "TypeScript",  icon = "devicon-typescript-plain" },
+  { name = "Go",          icon = "devicon-go-plain" },
+  { name = "MongoDB",    icon = "devicon-mongodb-plain" },
+  { name = "MySQL",      icon = "devicon-mysql-plain" },
+  { name = "PostgreSQL", icon = "devicon-postgresql-plain" },
+  { name = "Docker",  icon = "devicon-docker-plain" },
+  { name = "Redis",   icon = "devicon-redis-plain" },
+  { name = "Nginx",   icon = "devicon-nginx-original" }
 ]
 
 row2 = [
-  { name = "Go", icon = "devicon-go-plain" },
-  { name = "PostgreSQL", icon = "devicon-postgresql-plain" },
-  { name = "Nginx", icon = "devicon-nginx-original" }
+  { name = "React",        icon = "devicon-react-original" },
+  { name = "React Native", icon = "devicon-react-original" }, # 같은 아이콘 재사용
+  { name = "FastAPI",      icon = "devicon-fastapi-plain" },
+  { name = "Gemma",       icon = "llm-gemma" },
+  { name = "Mistral",     icon = "llm-mistral" },
+  { name = "Qwen",        icon = "llm-qwen" },
+  { name = "DeepSeek",    icon = "llm-deepseek" },
+  { name = "Transformers",icon = "llm-transformers" },
+  { name = "Gemini",      icon = "llm-gemini" },
+  { name = "GPT",   icon = "llm-gpt" },
+  { name = "Excel", icon = "tool-excel" }
 ]

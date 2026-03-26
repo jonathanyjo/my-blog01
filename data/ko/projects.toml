@@ -1,13 +1,25 @@
-[[projects]]
-  title = "Sol AI 프로젝트"
-  description = "미래 제작자를 위한 AI 기반 솔루션."
-  image = "/images/projects/sol-ai.png"
-  link = "https://github.com/jonathanyjo/sol-ai"
-  tech = "Python, FastAPI"  # 반드시 이 형식을 사용하세요
+# D:\GitPage\my-blog01\data\en\projects.toml
 
 [[projects]]
-  title = "Bio-AI 연구"
-  description = "생명정보학 분석 도구."
-  image = "/images/projects/bio.png"
-  link = "#"
-  tech = "Python, Docker"
+title = "Tubease AI"
+description = "LLM 기반 텍스트 분석·생성 SaaS 플랫폼"
+tech = "Hugo, Tailwind CSS, JavaScript, Go"
+period = "2025 - Present"
+highlight = true
+
+image = "/images/sol-ai-cover.jpg"          # static/images/sol-ai-cover.png
+view_code = "https://github.com/jonathanyjo/Tubease-ai"
+watch_demo = "https://youtu.be/your-demo-id"
+visit_website = "https://Tubease-ai.dev"
+
+[[projects]]
+title = "OligoN"
+description = "개발 로그와 연구 내용을 정리한 정적 블로그"
+tech = "Hugo, Tailwind CSS"
+period = "2024 - 2025"
+highlight = false
+
+image = "/images/oligon-blog.png"         # 있으면 사용, 없으면 빈 값으로 두세요
+view_code = "https://github.com/jonathanyjo/OligoN-blog"
+watch_demo = ""
+visit_website = "https://jonathanyjo.github.io"
